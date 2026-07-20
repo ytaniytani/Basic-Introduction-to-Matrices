@@ -1,0 +1,6 @@
+{
+  "name": "Interactive Matrix Lab",
+  "description": "行列の基礎、計算手順をステップバイステップで学び、2D線形変換の視覚化グラフ、インタラクティブ計算機、練習用小テストで直感的に理解を深めることができる数学学習プラットフォーム。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
